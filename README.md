@@ -52,4 +52,4 @@ elements to change their appearance or remove them entirely.
 
 4.Click the task text to mark it "Done."
 
-Click Delete to remove a specific task or Clear All to start fresh.
+5.Click Delete to remove a specific task or Clear All to start fresh.
